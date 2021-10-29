@@ -1,0 +1,32 @@
+nav {
+	background-image: url(./img/background-2076336_1920.jpg);
+}
+.navbar-brand {
+	font-size: 40px;
+	font-style: italic;
+	font-weight: bold;
+}
+a {
+	font-size: large;
+	color: rgb(83, 223, 83);
+}
+.carousel-inner {
+	height: 700px;
+}
+section {
+	background-image: url(./img/background-2076336_1920.jpg);
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+img {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+article {
+	background: rgb(195, 224, 115);
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer {
+	background-color: green;
+}
