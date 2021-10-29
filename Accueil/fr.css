@@ -10,6 +10,10 @@ a {
 	font-size: large;
 	color: rgb(83, 223, 83);
 }
+p {
+	display: inline;
+	text-align: justify;
+}
 .carousel-inner {
 	height: 700px;
 }
