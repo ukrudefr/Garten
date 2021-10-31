@@ -1,4 +1,16 @@
-.gallery {
+
+nav {
+	background-image: url(./img/background-2076336_1920.jpg);
+}
+.navbar-brand {
+	font-size: 40px;
+	font-style: italic;
+	font-weight: bold;
+}
+a {
+	font-size: large;
+	color: rgb(83, 223, 83);
+}.gallery {
 	background-image: url(img/background-2076336_1920.jpg);
 	padding: 80px 0;
 }
