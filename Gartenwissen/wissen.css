@@ -1,0 +1,38 @@
+body {
+	background-image: url(./img/background-2076336_1920.jpg);
+}
+.navbar-brand {
+	font-size: 40px;
+	font-style: italic;
+	font-weight: bold;
+}
+a {
+	font-size: large;
+	color: rgb(83, 223, 83);
+}
+section {
+	padding-top: 120px;
+}
+#sidebar-wrapper {
+	height: 100vh;
+}
+.nav {
+	border-right: solid;
+	border-color: rgba(0, 22, 22, 0.4);
+	width: 300px;
+	font-size: large;
+
+}
+.nav-link {
+	color: #000;
+}
+.nav-link:hover {
+	font-size: 25px;
+	color: green;
+	font-weight: bold;
+}
+@media(max-width: 768px) {
+	#sidebar {
+		margin-left: -250px;
+	}
+}
