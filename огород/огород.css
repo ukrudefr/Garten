@@ -1,0 +1,32 @@
+body {
+	background-image: url(./img/background-2076336_1920.jpg);
+}
+nav {
+	background-image: url(./img/background-2076336_1920.jpg);
+}
+.navbar-brand {
+	font-size: 40px;
+	font-style: italic;
+	font-weight: bold;
+}
+a {
+	font-size: large;
+	color: rgb(83, 223, 83);
+}
+main {
+	position: relative;
+	top: 150px;
+}
+.affix {
+	top: 20px;
+	z-index: 9999 !important;
+}
+div.col-sm-9 div {
+	height: 250px;
+	font-size: 28px;
+}
+@media screen and (max-width: 810px) {
+    #section1, #section2, #section3, #section41, #section42  {
+        margin-left: 150px;
+    }
+  }
