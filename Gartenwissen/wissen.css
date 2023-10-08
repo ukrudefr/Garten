@@ -41,11 +41,21 @@ main {
 	padding: 0px 10px;
 	font-size: 18px;
 }
-@media screen (max-height:450px) {
+@media screen and (max-height:450px) {
 	.sidenav {padding-top: 15px;}
 	.sidenav a {font-size: 18px;}
 }
 h2 {
 	text-align: center;
 	padding-top: 100px;
+	padding-bottom: 50px;
+	
+}
+
+h3 {
+	padding: 20px;
+}
+
+p {
+	
 }
